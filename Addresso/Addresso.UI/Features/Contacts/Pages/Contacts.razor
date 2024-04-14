@@ -1,0 +1,65 @@
+﻿@page "/contacts"
+@using Addresso.UI.Domain.Entities
+@inherits Fluxor.Blazor.Web.Components.FluxorComponent
+
+<PageTitle>Contacts | Addresso</PageTitle>
+
+<h1>Contacts</h1>
+
+@if(ContactsState!.Value.IsLoading){
+<p>Loading...</p>
+}
+else
+{
+<input class="form-control mb-3"
+       placeholder="Filter Contacts"
+       @bind-value="SearchText"
+       @bind-value:event="oninput"
+/>
+
+@if(AvailableContacts != null){
+<p>Showing @AvailableContacts.Count Contacts</p>
+<table class="table table-responsive table-striped">
+    <thead>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>&nbsp;</th>
+    </tr>
+    </thead>
+    <tbody>
+    @{int i = 1;}
+    @foreach(Contact contact in AvailableContacts){
+    <tr>
+        <td>
+            @contact!.FirstName!.ToString()
+        </td>
+        <td>
+            @contact!.LastName!.ToString()
+        </td>
+        <td>
+            @contact!.Email!.ToString()
+        </td>
+        <td>
+            @contact!.Phone!.ToString()
+        </td>
+        <td>
+            <NavLink href="@($"/contact/{i}")">
+                Edit
+            </NavLink>
+        </td>
+    </tr>
+    i++;
+    }
+    </tbody>
+</table>
+}
+
+<NavLink
+    class="btn btn-success"
+    href="/contact/-1">
+    Add Contact
+</NavLink>
+}

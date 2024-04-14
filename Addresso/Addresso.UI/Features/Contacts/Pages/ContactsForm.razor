@@ -1,0 +1,15 @@
+@namespace Addresso.Features.Contacts.Pages
+@page "/contact/{Id:int}"
+@using Addresso.UI.Features.Contacts.Components
+@inherits Fluxor.Blazor.Web.Components.FluxorComponent
+
+<PageTitle>Manage Contact | Addresso</PageTitle>
+
+@if (ContactState!.Value.IsLoading)
+{
+    <p>Loading Contact...</p>
+}
+else
+{
+    <ContactDetails Id="Id" Contact="ContactState!.Value.CurrentContact"></ContactDetails>
+}

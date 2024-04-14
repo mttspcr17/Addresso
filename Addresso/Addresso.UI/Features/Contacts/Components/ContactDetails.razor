@@ -1,0 +1,87 @@
+﻿@using System.Text.Json
+@using Addresso.UI.Domain.Entities
+@using Addresso.UI.Features.Contacts.Store
+@using Fluxor
+
+@if (Contact != null)
+{
+    <div class="row mb-3">
+        <div class="col-12 col-lg-12">
+            <a class="btn btn-primary" href="/contacts">Back to List</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-12">
+            <h1>@(Id > 0 ? "Edit" : "New") Contact</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-12">
+            <EditForm Model="Contact" OnValidSubmit="@ValidFormSubmitted" class="row gap-3">
+                <div class="col-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="firstName" class="form-label">First Name</label>
+                        <InputText id="firstName" class="form-control" placeholder="First Name" @bind-Value="Contact.FirstName"/>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="lastName" class="form-label">Last Name</label>
+                        <InputText id="lastName" class="form-control" placeholder="Last Name" @bind-Value="Contact.LastName"/>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="email" class="form-label">Email Address</label>
+                        <InputText id="email" class="form-control" placeholder="Email Address" @bind-Value="Contact.Email"/>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="phone" class="form-label">Phone Number</label>
+                        <InputText id="phone" class="form-control" placeholder="Phone Number" @bind-Value="Contact.Phone"/>
+                    </div>
+                </div>
+                <DataAnnotationsValidator />
+                <ValidationSummary/>
+                <div class="row">
+                    <div class="col-12 col-lg-6">
+                        <input type="submit" class="btn btn-success" value="Save Contact"/>
+                    </div>
+                    <div class="col-12 col-lg-6 text-lg-end @(Id < 1 ? "d-none" : "")">
+                        <button class="btn btn-danger" @onclick="DeleteContact">Delete</button>
+                    </div>
+                </div>
+            </EditForm>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    [Parameter]
+    public Contact Contact { get; set; } = new Contact();
+
+    [Inject]
+    IDispatcher Dispatcher { get; set; }
+
+    public async void ValidFormSubmitted(EditContext editContext)
+    {
+        if (!editContext.Validate()) return;
+
+        if (Id > 0)
+        {
+            Dispatcher.Dispatch(new ContactActions.SaveExistingContactData(Contact));
+        }
+        else
+        {
+            Dispatcher.Dispatch(new ContactActions.SaveNewContactData(Contact));
+        }
+    }
+
+    public void DeleteContact()
+    {
+        Dispatcher.Dispatch(new ContactActions.DeleteCurrentContactData(Id));
+    }
+}
