@@ -41,10 +41,6 @@
       "PackagePath": "staticwebassets\\sample-data\\contacts.json"
     },
     {
-      "Id": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
-    },
-    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Addresso.UI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

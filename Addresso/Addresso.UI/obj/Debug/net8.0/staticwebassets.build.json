@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GZM0GFN3OzUXJ72isbYzMbo6pp4S7nj0Qod4GVqjGR8=",
+  "Hash": "VN5coLeB3dthwPOtNnjZWZHJNd0v5/eLxpYXsLtfemQ=",
   "Source": "Addresso.UI",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,44 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Addresso.Shared.pdb",
+      "SourceId": "Addresso.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Addresso.Shared.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.Shared\\bin\\Debug\\net8.0\\Addresso.Shared.pdb"
+    },
+    {
+      "Identity": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Addresso.Shared.wasm",
+      "SourceId": "Addresso.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Addresso.Shared.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\obj\\Debug\\net8.0\\webcil\\Addresso.Shared.wasm"
+    },
     {
       "Identity": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Addresso.UI.pdb",
       "SourceId": "Addresso.UI",
@@ -4976,6 +5014,25 @@
       "OriginalItemSpec": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.wasm"
     },
     {
+      "Identity": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\obj\\Debug\\net8.0\\compressed\\9ysns3no9e.gz",
+      "SourceId": "Addresso.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Addresso.Shared.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Addresso.Shared.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Addresso.Shared.wasm"
+    },
+    {
       "Identity": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\obj\\Debug\\net8.0\\compressed\\a4ejlwqohs.gz",
       "SourceId": "Addresso.UI",
       "SourceType": "Computed",
@@ -6475,6 +6532,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.VisualBasic.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\obj\\Debug\\net8.0\\compressed\\p3c0vlya68.gz",
+      "SourceId": "Addresso.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Addresso.Shared.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Addresso.Shared.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Addresso.Shared.pdb"
     },
     {
       "Identity": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\obj\\Debug\\net8.0\\compressed\\p3hnqodi2a.gz",
@@ -8052,25 +8128,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sample-data\\contacts.json"
-    },
-    {
-      "Identity": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "Addresso.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mttsp\\Proton Drive\\mttspcr\\My files\\MTRONIC\\Submissions\\Stage 1\\Addresso\\Addresso.UI\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
     }
   ]
 }

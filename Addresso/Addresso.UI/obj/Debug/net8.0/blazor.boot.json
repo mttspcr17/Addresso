@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Addresso.UI",
   "resources": {
-    "hash": "sha256-iS5M6/RzgbbJrK1MaMBze8jfzEyuqnQHII/LjzO2xt8=",
+    "hash": "sha256-Ne0ihalRIcFfM9QfXiIv3VKtDdqjVCvAlm63sB68N88=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.r8xg2330jy.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -211,10 +211,12 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "Addresso.UI.wasm": "sha256-1AZ9UPOhBxpm5dK4rCgx61NSNC8jfZHmSFP01tJbjaE="
+      "Addresso.Shared.wasm": "sha256-iwxQOe4pew4rLJod9ttMtsLmXt28hnYgV7tnlLwyC1Y=",
+      "Addresso.UI.wasm": "sha256-BACzHLSRqOErv5jkSq95x0w8r81c7lC50PaBv5RNODg="
     },
     "pdb": {
-      "Addresso.UI.pdb": "sha256-O4qVQq4rfLKu7Y1ufuuTDKoMfPn1SIgBbmhjGQQMIwQ="
+      "Addresso.Shared.pdb": "sha256-pm5bP6U/QQHqvWCIz0WhgAVVY9Awp35KNV6Vx8Vp0HY=",
+      "Addresso.UI.pdb": "sha256-71E/oTMtf8LQd2hcTHUMYTfna0G1WaF6wHQnhQoOYsM="
     }
   },
   "cacheBootResources": true,

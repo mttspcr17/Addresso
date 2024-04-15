@@ -1,6 +1,7 @@
 ﻿using System.Net;
+using System.Text;
 using System.Text.Json;
-using Addresso.UI.Domain.Common;
+using Addresso.Shared.Domain.Common;
 using Addresso.UI.Domain.Entities;
 
 namespace Addresso.UI.Api.Services;
@@ -11,31 +12,22 @@ public class ContactService(HttpClient _HttpClient) : IContactService
 
     public async Task<ServiceActionResult> Add(Contact contact)
     {
-        if (Contacts == null)
+        var content = new StringContent(JsonSerializer.Serialize(contact), Encoding.UTF8, "application/json");
+        var response = await _HttpClient.PostAsync("contacts", content);
+
+        if (response.IsSuccessStatusCode)
         {
-            ServiceQueryResult<List<Contact>?> fetchContacts = await FetchAll();
-
-            if (fetchContacts.Success)
-                Contacts = fetchContacts.Result;
-            else
-                return new ServiceActionResult(false, fetchContacts.StatusCode, "Failed to fetch contacts");
+            return new ServiceActionResult(true, HttpStatusCode.OK, "");
         }
-
-        if(Contacts == null) Contacts = new List<Contact>();
-
-        if(Contacts.Count > 0 && !Contacts.Contains(contact)){
-            Contacts.Add(contact);
+        else
+        {
+            return new ServiceActionResult(false, response.StatusCode, "");
         }
-
-        return new ServiceActionResult(true, HttpStatusCode.OK, "");
     }
 
     public async Task<ServiceQueryResult<List<Contact>?>> FetchAll()
     {
-        if (Contacts != null) 
-            return new ServiceQueryResult<List<Contact>?>(true, HttpStatusCode.OK, null, Contacts);
-
-        using HttpResponseMessage response = await _HttpClient.GetAsync(SAMPLE_DATA_PATH);
+        using HttpResponseMessage response = await _HttpClient.GetAsync("contacts");
         List<Contact>? contacts = null;
 
         if(response.IsSuccessStatusCode)
@@ -44,19 +36,15 @@ public class ContactService(HttpClient _HttpClient) : IContactService
         return new ServiceQueryResult<List<Contact>?>(response.IsSuccessStatusCode, response.StatusCode, null, contacts);
     }
 
-    public async Task<ServiceQueryResult<Contact?>> FetchSingle(int Id)
+    public async Task<ServiceQueryResult<Contact?>> FetchSingle(int id)
     {
-        if (Contacts == null)
-        {
-            using HttpResponseMessage response = await _HttpClient.GetAsync(SAMPLE_DATA_PATH);
-        
-            if(response.IsSuccessStatusCode)
-                Contacts = JsonSerializer.Deserialize<List<Contact>>(response.Content.ReadAsStream());
-            else
-                return new ServiceQueryResult<Contact?>(response.IsSuccessStatusCode, response.StatusCode, null, null);
-        }
+        using HttpResponseMessage response = await _HttpClient.GetAsync($"contacts/{id}");
+        Contact contact = null;
 
-        return new ServiceQueryResult<Contact?>(true, HttpStatusCode.OK, null, Contacts![Id - 1]);
+        if(response.IsSuccessStatusCode)
+            contact = JsonSerializer.Deserialize<Contact>(response.Content.ReadAsStream());
+
+        return new ServiceQueryResult<Contact>(response.IsSuccessStatusCode, response.StatusCode, null, contact);
     }
 
     public async Task<ServiceActionResult> Update(Contact contact)
@@ -85,9 +73,13 @@ public class ContactService(HttpClient _HttpClient) : IContactService
         return new ServiceActionResult(true, HttpStatusCode.OK, "");
     }
 
-    public async Task<ServiceActionResult> Delete(int Id)
+    public async Task<ServiceActionResult> Delete(int id)
     {
-        Contacts.Remove(Contacts[Id-1]);
+        using HttpResponseMessage response = await _HttpClient.DeleteAsync($"contacts/{id}");
+        Contact contact = null;
+
+        if(response.IsSuccessStatusCode)
+            contact = JsonSerializer.Deserialize<Contact>(response.Content.ReadAsStream());
 
         return new ServiceActionResult(true, HttpStatusCode.OK, "");
     }

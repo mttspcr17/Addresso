@@ -1,0 +1,6 @@
+@Addresso.Api_HostAddress = http://localhost:5187/api
+
+GET {{Addresso.Api_HostAddress}}/contacts/
+Accept: application/json
+
+###

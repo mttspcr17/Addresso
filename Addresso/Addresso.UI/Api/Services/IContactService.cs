@@ -1,4 +1,4 @@
-﻿using Addresso.UI.Domain.Common;
+﻿using Addresso.Shared.Domain.Common;
 using Addresso.UI.Domain.Entities;
 
 namespace Addresso.UI.Api.Services;

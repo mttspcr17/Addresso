@@ -30,7 +30,6 @@ else
     </tr>
     </thead>
     <tbody>
-    @{int i = 1;}
     @foreach(Contact contact in AvailableContacts){
     <tr>
         <td>
@@ -46,12 +45,11 @@ else
             @contact!.Phone!.ToString()
         </td>
         <td>
-            <NavLink href="@($"/contact/{i}")">
+            <NavLink href="@($"/contact/{contact.Id}")">
                 Edit
             </NavLink>
         </td>
     </tr>
-    i++;
     }
     </tbody>
 </table>

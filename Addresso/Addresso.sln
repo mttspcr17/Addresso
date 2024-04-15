@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Addresso.UI", "Addresso.UI\Addresso.UI.csproj", "{8124CE22-B17C-4201-B4FC-00F60BDC5408}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addresso.Api", "Addresso.Api\Addresso.Api.csproj", "{A8AE8ECE-197B-4AF8-B5A0-0859A754D5CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addresso.Shared", "Addresso.Shared\Addresso.Shared.csproj", "{323A41FE-D991-47ED-BBBE-B1B4092E1E3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8124CE22-B17C-4201-B4FC-00F60BDC5408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8124CE22-B17C-4201-B4FC-00F60BDC5408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8124CE22-B17C-4201-B4FC-00F60BDC5408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8AE8ECE-197B-4AF8-B5A0-0859A754D5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AE8ECE-197B-4AF8-B5A0-0859A754D5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AE8ECE-197B-4AF8-B5A0-0859A754D5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AE8ECE-197B-4AF8-B5A0-0859A754D5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323A41FE-D991-47ED-BBBE-B1B4092E1E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323A41FE-D991-47ED-BBBE-B1B4092E1E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323A41FE-D991-47ED-BBBE-B1B4092E1E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323A41FE-D991-47ED-BBBE-B1B4092E1E3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

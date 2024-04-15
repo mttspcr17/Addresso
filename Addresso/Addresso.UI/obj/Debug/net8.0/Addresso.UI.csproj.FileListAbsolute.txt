@@ -1044,6 +1044,11 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\RiderProjects\Addresso\Addr
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\RiderProjects\Addresso\Addresso.UI\obj\Debug\net8.0\refint\Addresso.UI.dll
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\RiderProjects\Addresso\Addresso.UI\obj\Debug\net8.0\Addresso.UI.pdb
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\RiderProjects\Addresso\Addresso.UI\obj\Debug\net8.0\ref\Addresso.UI.dll
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.Shared.pdb
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.Shared.wasm
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.UI.pdb
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.UI.wasm
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
@@ -1248,23 +1253,11 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.4.0t39cd9hs6.js.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.4.r8xg2330jy.js.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.UI.pdb
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.UI.wasm
-C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.4.0t39cd9hs6.js.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm.gz
@@ -1281,6 +1274,7 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Net.Ping.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Thread.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Intrinsics.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Fluxor.Blazor.Web.ReduxDevTools.wasm.gz
@@ -1313,6 +1307,7 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.Shared.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm.gz
@@ -1349,6 +1344,7 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Primitives.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm.gz
@@ -1380,6 +1376,7 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Primitives.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Private.CoreLib.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm.gz
@@ -1390,18 +1387,21 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.UI.pdb.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.Shared.pdb.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.AccessControl.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Overlapped.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Serialization.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Immutable.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Collections.NonGeneric.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Xml.ReaderWriter.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Windows.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.4.r8xg2330jy.js.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm.gz
@@ -1415,6 +1415,7 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.Vectors.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
@@ -1430,6 +1431,7 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Addresso.UI.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Primitives.wasm.gz
@@ -1440,8 +1442,10 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Reader.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.ZipFile.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Resources.ResourceManager.wasm.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.wasm.gz
@@ -1664,6 +1668,8 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\icudt_CJK.dat
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\icudt_EFIGS.dat
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\icudt_no_CJK.dat
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\Addresso.Shared.dll
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\bin\Debug\net8.0\Addresso.Shared.pdb
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\Addresso.UI.csproj.AssemblyReference.cache
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\Addresso.UI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\Addresso.UI.AssemblyInfoInputs.cache
@@ -1864,6 +1870,7 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\webcil\mscorlib.wasm
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\webcil\netstandard.wasm
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\webcil\System.Private.CoreLib.wasm
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\webcil\Addresso.Shared.wasm
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\webcil\Addresso.UI.wasm
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\blazor.build.boot-extension.json
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\blazor.boot.json
@@ -2082,6 +2089,8 @@ C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Address
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\compressed\nsczjb43gq.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\compressed\xditvq67bz.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\compressed\q0bhmw51ue.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\compressed\9ysns3no9e.gz
+C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\compressed\p3c0vlya68.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\compressed\vrqq1yyoam.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\compressed\oq1ncbmb51.gz
 C:\Users\mttsp\Proton Drive\mttspcr\My files\MTRONIC\Submissions\Stage 1\Addresso\Addresso.UI\obj\Debug\net8.0\compressed\fveyapdap7.gz

@@ -1,5 +1,5 @@
 ﻿using Addresso.UI.Api.Services;
-using Addresso.UI.Domain.Common;
+using Addresso.Shared.Domain.Common;
 using Addresso.UI.Domain.Entities;
 using Fluxor;
 using Fluxor.Blazor.Web.Middlewares.Routing;
